@@ -1,5 +1,5 @@
 # a433-microservices
-Repository ini digunakan untuk kebutuhan kelas Belajar Membangun Arsitektur Microservices
+This repository is used for the needs of the Learning to Build Microservices Architecture class
 
-Silakan clone dengan perintah berikut.<br>
-`git clone -b todo-app https://github.com/dicodingacademy/a433-microservices.git`
+Please clone with the following command.<br>
+`git clone -b todo-app https://github.com/kandlagifari/microservices-labs.git`
